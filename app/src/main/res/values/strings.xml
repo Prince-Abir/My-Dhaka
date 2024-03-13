@@ -1,0 +1,117 @@
+<resources>
+    <string name="app_name">My Dhaka</string>
+
+    <string-array name="MainPartString">
+        <item>Hospital</item>
+        <item>Ambulance</item>
+        <item>Police</item>
+        <item>Fire-Service</item>
+    </string-array>
+
+    <string-array name="MainSecondString">
+        <item>Hotel</item>
+        <item>Restaurant</item>
+        <item>Tourist Spot</item>
+    </string-array>
+
+    <string-array name="MainThirdString">
+        <item>Desco</item>
+        <item>Dhaka WASA</item>
+        <item>Titas</item>
+        <item>Daraz</item>
+    </string-array>
+
+    <string-array name="CategoryOne">
+        <item>Hospital</item>
+        <item>Ambulance</item>
+        <item>Police</item>
+        <item>Fire Service</item>
+        <item>Blood Donor</item>
+        <item>Blood Bank</item>
+        <item>Lawyer</item>
+        <item>Help Me</item>
+    </string-array>
+
+    <string-array name="CategoryThree">
+
+        <item>Desco</item>
+        <item>Dhaka WASA</item>
+        <item>Titas</item>
+        <item>Daraz</item>
+        <item>Pathao</item>
+        <item>Food Panda</item>
+        <item>Bikroy</item>
+        <item>BD Jobs</item>
+        <item>Goo Zayaan</item>
+        <item>Sohoz Bus</item>
+        <item>BD Railway</item>
+        <item>SIM</item>
+
+    </string-array>
+
+    <string name="about">
+        In the bustling urban heart of Dhaka, where life never stops and the city pulses with energy, My Dhaka emerges as your definitive guide, designed exclusively for the residents and visitors of this vibrant metropolis. Seamlessly blending innovation with convenience, our app brings you a comprehensive array of features that are tailor-made to enhance your Dhaka experience.
+
+
+        \n\n\nEmergency Assistance at Your Fingertips: Safety is paramount, and My Dhaka has you covered. With a user-friendly interface, the Help Me feature stands ready to assist during emergencies. By simply composing an emergency message and pre-selecting up to three contact numbers from your circle of family, friends, and relatives, you can activate the Help Me Button. In a split second, your current location is sent via SMS to your chosen contacts, ensuring swift response and immediate aid.
+
+        \n\nEssential Services, Swift Access: Whether you"re facing a medical crisis or need to report an incident, My Dhaka provides you with a direct path to essential services. Locate hospitals, ambulance services, police stations, and fire stations seamlessly. Obtain comprehensive details including addresses and phone numbers, and initiate immediate calls, bridging the gap between you and the crucial help you need.
+
+        \n\nLife-Saving Blood Donors and Banks: Urgency knows no bounds, and our app ensures a lifeline. The Blood Donors and Blood Banks feature empowers you to find blood donors swiftly, aiding those in dire need. Coupled with the app"s listing of blood banks, this feature can prove crucial in critical moments.
+
+
+        \n\nNavigating Legal Labyrinth: Legal matters are simplified with My Dhaka"s Lawyers feature. Discover a directory of lawyers practicing in Dhaka, complete with their contact information. Access to legal assistance has never been more straightforward, enabling you to tackle legal challenges with confidence.
+
+        \n\nHospitality and Culinary Delights: For residents and travelers alike, finding accommodations and dining options in Dhaka is a breeze with My Dhaka. Navigate through a curated list of hotels and restaurants, and gain real-time insight into room availability, allowing you to effortlessly plan your stay and satiate your culinary cravings.
+
+        \n\nDiscover Dhaka"s Hidden Gems: Tourist Spots is your gateway to exploring Dhaka"s cultural richness. Discover the city's landmarks and points of interest, with the added convenience of accessing Google Maps for seamless navigation to your chosen destinations.
+
+        \n\nAccessing Vital Online Services: My Dhaka doesn"t just stop at city navigation—it extends its reach to your virtual needs too. Seamlessly access important websites like Desco, Dhaka WASA, and Titas for managing utility bills. Experience the convenience of online shopping through Daraz, opt for efficient ride-sharing via Pathao, satisfy your cravings with Food Panda, and explore second-hand treasures on Bikroy, all from within the app.
+
+
+        \n\nCareer Opportunities Just a Tap Away: Job seekers in Dhaka can turn to My Dhaka for career opportunities. The integration of BDJobs brings a plethora of job listings to your fingertips, making the job search process smoother and more efficient.
+
+
+        \n\nElevated Travel Experience: For travel enthusiasts, My Dhaka integrates flight booking through Goo Zayaan, bus ticketing via Sohoz, and rail ticketing services through BD Railway, all consolidated in one user-friendly interface. Navigating through your travel options has never been this straightforward.
+
+
+        \n\nMobile Operator USSD Codes Made Simple: No need to remember complicated USSD codes anymore. My Dhaka provides a dedicated feature for important USSD codes for different mobile operators in Bangladesh, ensuring effortless management of your mobile services.
+
+
+
+        \n\n\nMy Dhaka is not just an app; it"s your city companion, designed to cater to every facet of your life in Dhaka. Whether you"re a local seeking instant assistance or a visitor aiming to explore the city to its fullest, My Dhaka"s intuitive interface and comprehensive features will redefine your experience. Download My Dhaka today, and embark on a journey through Dhaka like never before!
+
+
+    </string>
+    
+    <string name="instruction">
+\nসংকটের সময়ে, মাই ঢাকার "আপাতকালীন সাহায্য" বৈশিষ্ট্য আপনাকে দ্রুত এবং সরাসরি সাহায্যের অ্যাক্সেস প্রদান করে। আপনি যদি চিকিৎসার জরুরি অবস্থায় পড়েন অথবা একটি কঠিন সময়ে পরিস্থিতি হতে যেতে বদ্ধ পান, এই বৈশিষ্ট্যটি আপনাকে ত্বরিত সাহায্যের জন্য দ্রুত যোগাযোগ করার সামর্থ্য দেয়। নিম্নলিখিত হল কীভাবে আপনি এটি ব্যবহার করতে পারেন:
+
+\n\n\n**পদক্ষেপ 1: "আপাতকালীন সাহায্য" বৈশিষ্ট্যে অ্যাক্সেস করুন**
+আপনার স্মার্টফোনে মাই ঢাকা অ্যাপ খুলুন। মূল স্ক্রীনে, "আপাতকালীন সাহায্য" শাখা প্রয়োজনীয়ভাবে প্রদর্শিত হবে। এই শাখায় যাত্রা করার জন্য এটিতে ট্যাপ করুন।
+
+\n\n**পদক্ষেপ 2: আপনার আপাতকালীন বার্তা লেখুন**
+"আপাতকালীন সাহায্য" শাখায় একবার প্রবেশ করার পর, আপনি একটি পাঠ্য বক্সে পৌঁছানো হবে যেখানে আপনি আপাতকালীন বার্তা লেখতে পারেন। এই বার্তাটি আপনার পরিস্থিতির সংক্ষেপ এবং আপনি যে ধরণের সাহায্য প্রয়োজন তা সূচনা করতে হবে। বার্তাটি সংক্ষিপ্ত কিন্তু সংবেদনশীল হোন।
+
+\n\n**পদক্ষেপ 3: আপাতকালীন যোগাযোগ নির্ধারণ করুন**
+এগিয়ে যাওয়ার আগে, আপাতকালীন যোগাযোগের জন্য তিনটি যোগাযোগ নম্বর নির্বাচন করতে কিছুটা সময় নিন আপনার পরিবারের সদস্য, বন্ধু, এবং আত্মীয়দের মধ্যে থেকে। এটা করতে, "যোগ করুন" বোতামে ট্যাপ করুন, যা আপনাকে আপনার ফোনের ঠিকানা বইয়ের তালিকা থেকে যোগাযোগকারী নির্বাচন করতে অনুমতি দেয়।
+
+\n\n**পদক্ষেপ 4: "আমাকে সাহায্য করুন" বোতাম সক্রিয় করুন**
+আপনি আপাতকালীন বার্তা লেখে আপনার যোগাযোগকারী নির্ধারণ করার পর, আপনি "আমাকে সাহায্য করুন" বোতামটি সক্রিয় করতে প্রস্তুত। এই বোতামটি প্রকাশিত হয় "আপাতকালীন সাহায্য" শাখায়।
+
+\n\n**পদক্ষেপ 5: আপনার অবস্থান প্রেরণ করা**
+"সাহায্য করুন" বোতাম একটি ট্যাপ দিয়ে, অ্যাপটি স্বয়ংক্রিয়ভাবে নির্বাচিত আপাতকালীন যোগাযোগের নির্ধারিত যোগাযোগগুলি একটি এসএমএস প্রেরণ করে। এই এসএমএসটি আপনার আপাতকালীন বার্তা এবং আপনার বর্তমান অবস্থান অন্তর্ভুক্ত করবে। আপনার যোগাযোগগুলি কিছু সেকেন্ডের মধ্যে এই তথ্যটি পেয়ে যাবেন।
+
+\n\n**পদক্ষেপ 6: দ্রুত সাহায্য প্রাপ্তি**
+এসএমএস পেয়ে, আপনার নির্বাচিত আপাতকালীন যোগাযোগগুলি আপনার সম্পূর্ণ অবস্থান জানতে স্থানীয়ভাবে বুঝা যাবে। তারপর তারা আপনার সাহায্য প্রদান করার প্রয়োজনীয় পদক্ষেপ নেবেন। এটা আপনার সাথে সংম্পর্ক করতে পারে চিকিৎসা পরিষ্কার থাকায়, আপনার আরও তথ্য জানতে আপনার সাথে যোগাযোগ করতে অথবা আসতে বার্ষিক ব্যক্তিগত গুণগত সাহায্য করতে একত্র বাসীর সাথে সময় নিয়ে এখান থেকে পরিচয় পান।
+
+\n\n**গুরুত্বপূর্ণ নোট:**
+- আপনার স্মার্টফোনের অবস্থান পরিষ্কারভাবে ট্র্যাকিং করতে (জিপিএস) অনুমতি প্রদান করুন।
+- আপনার নির্বাচিত আপাতকালীন যোগাযোগগুলি আপডেট বা পরিমার্জন করান। আপনি এই যোগাযোগগুলি অ্যাপের সেটিংসের মধ্যে পরিবর্তন বা আপডেট করতে পারেন।
+- এই বৈশিষ্ট্যটি প্রাকৃতিক আপাতকালীন অবস্থায় মাত্র ব্যবহারের জন্য প্রয়োজনীয়। অতিরিক্ত জনপ্রিয় ব্যবহার করবেন না এবং যত্নশীলভাবে ব্যবহার করবেন।
+
+\n\n\nমাই ঢাকা অ্যাপে "আপাতকালীন সাহায্য" বৈশিষ্ট্য ব্যবহার করে, আপনি সিদ্ধান্ত নিতে পারেন যে সাহায্য একটি ট্যাপ দূরে আছে। চিকিৎসা আপাতকালীন, নিরাপত্তা সংক্রান্ত চিন্তা বা যে কোনও জরুরি অবস্থায়, এই বৈশিষ্ট্যটি আপনাকে দ্রুত আপনার আত্মবিশ্বাসের প্রয়োজন আপনার পরিস্থিতিতে যোগাযোগ করার সুযোগ প্রদান করে। আপনার সুরক্ষা প্রথমত আমাদের প্রাথমিক চিন্তা, এবং মাই ঢাকা আপনাকে সাহায্য প্রদান করার জন্য যেখানেই আপনি প্রয়োজন তা প্রতিষ্ঠা করে।
+    </string>
+
+
+</resources>
